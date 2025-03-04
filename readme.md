@@ -96,19 +96,18 @@ Files
 **Screenshots**
 
 1. Prediction Page
-   
-![Screenshot 2024-10-22 221152](https://github.com/user-attachments/assets/de97b326-40c7-418b-bf71-e6c10e9b60f5)
+   ![Image](https://github.com/user-attachments/assets/df7bbe29-2df6-4e29-9727-16bbe009ec71)
 
 
 2. Model Evaluation
    
-![Screenshot 2024-10-22 221209](https://github.com/user-attachments/assets/c5a72d5a-164d-4f46-96da-cbda95d468a3)
+![Image](https://github.com/user-attachments/assets/bbcb8706-b4ce-4a4d-bda4-20105748d602)
 
 
 3. Feedback Section
 
-![Screenshot 2024-10-22 221222](https://github.com/user-attachments/assets/e9492d70-786b-495b-85f4-3b788d64882a)
+![Image](https://github.com/user-attachments/assets/2d61c94e-7549-4e7e-8291-e661a1f38f96)
 
 4. Contact Us
 
-![Screenshot 2024-10-22 221235](https://github.com/user-attachments/assets/70fea60d-8bcb-4407-ac45-9a6762b64201)
+![Image](https://github.com/user-attachments/assets/a24e2cac-7c50-4b47-876f-19112892e038)
